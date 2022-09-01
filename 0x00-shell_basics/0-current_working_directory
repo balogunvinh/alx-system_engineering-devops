@@ -1,5 +1,4 @@
 #!/bin/bash
-pwd
-echo present working directory
-echo this is used to recognise a directory you are currently working on
+pwd >> 0-current_working_directory
+chmod u+x 0-current_working_directory
 
