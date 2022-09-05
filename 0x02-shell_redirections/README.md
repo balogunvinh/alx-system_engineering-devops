@@ -1,0 +1,1 @@
+this is a readme file that shows the basic commands on for input and output redirections
